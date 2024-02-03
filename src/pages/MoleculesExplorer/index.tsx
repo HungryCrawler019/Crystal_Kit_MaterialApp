@@ -1,1 +1,0 @@
-export { MoleculesExplorer } from './MoleculesExplorer';

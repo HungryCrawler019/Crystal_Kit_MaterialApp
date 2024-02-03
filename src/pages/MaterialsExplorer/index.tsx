@@ -1,1 +1,0 @@
-export { MaterialsExplorer } from './MaterialsExplorer';
